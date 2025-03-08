@@ -4,7 +4,9 @@
 
 This project is a Movie Recommendation System that suggests similar movies based on user input. The model utilizes Natural Language Processing (NLP) and Machine Learning to analyze movie metadata and provide recommendations. The dataset used for this project is TMDB 5000 Movies Dataset.
 
+🔗 Live Demo
 
+Check out the deployed app on Render: 
 
 
 ![recc](https://github.com/user-attachments/assets/16c86e83-0dc6-4a53-95c4-35bf6aec8882)
