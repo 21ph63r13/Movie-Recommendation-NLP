@@ -29,9 +29,8 @@ Natural Language Processing (NLP) (TF-IDF Vectorization)
 
 Machine Learning (Cosine Similarity for recommendations)
 
-Streamlit (for web application, if applicable)
+Streamlit (for web application)
 
-Flask/FastAPI (if deploying as an API)
 
 🎯 Model Explanation
 
